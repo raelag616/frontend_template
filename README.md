@@ -9,3 +9,7 @@ For correct work you need:
 3) Optional installed bower (not recomended if you not sure, that new version of library will not brake your project)
 
 Until you begin to coding, update plugins versions with "npm -u" command and rewrite package.json file with your own description, name , etc.
+
+After all prepearings, write down this commands in 
+npm i
+gulp
